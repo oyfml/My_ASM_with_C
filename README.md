@@ -1,1 +1,1 @@
-# Signal Generation using ASM with C
+# Signal Generation using Verilog
